@@ -1,0 +1,6 @@
+Place,Well Name,Status,Qg (MMSCMD),Qc (m³/day),Qw (m³/day),Timestamp
+"Agartala Dome","Agartala Dome A#1","Active",-3,5,0,"2025-06-14T15:51:20.985Z"
+"Agartala","A#1","Flowing",56.55,25.55,45.45,"2025-06-15T05:15:35.771Z"
+"A#10","Agartala DOme","Flowing",,,,"2025-06-19T21:12:20.392Z"
+"A#11","Agartala Super","Flowing",,,,"2025-06-19T21:24:04.109Z"
+"Agartala Dome","Agartala Dome A#1","Flowing",5,4,6,2,55,66,"","","2025-06-20T04:26:48.657Z"

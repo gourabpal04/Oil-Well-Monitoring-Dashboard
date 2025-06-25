@@ -1,0 +1,419 @@
+[
+  {
+    "name": "A#1",
+    "location": "Agartala Dome",
+    "status": "Flowing",
+    "fthp": 33,
+    "qg": 36000,
+    "qw": 5.29,
+    "qc": 0.147,
+    "lat": 23.76049885,
+    "long": 91.35617762
+  },
+  {
+    "name": "A#2",
+    "location": "Agartala Dome",
+    "status": "Flowing",
+    "fthp": 37,
+    "qg": 56321,
+    "qw": 7.95,
+    "qc": 0.197,
+    "lat": 23.72150391,
+    "long": 91.38096572
+  },
+  {
+    "name": "A#3",
+    "location": "Agartala Dome",
+    "status": "Flowing",
+    "fthp": 116,
+    "qg": 81987,
+    "qw": 0.8,
+    "qc": 0.039,
+    "lat": 23.75264213,
+    "long": 91.41317829
+  },
+  {
+    "name": "A#4",
+    "location": "Agartala Dome",
+    "status": "Dry/Abandoned",
+    "lat": 23.77874177,
+    "long": 91.36958936
+  },
+  {
+    "name": "A#5",
+    "location": "Agartala Dome",
+    "status": "Flowing",
+    "fthp": 56,
+    "qg": 27512,
+    "qw": 3.12,
+    "qc": 0.031,
+    "lat": 23.72750167,
+    "long": 91.3420801
+  },
+  {
+    "name": "A#6",
+    "location": "Agartala Dome",
+    "status": "Sick",
+    "fthp": 38,
+    "reason": "Ceased due to water loading",
+    "plan": "Recompletion with SRP, Need dual string handling tool",
+    "lat": 23.79747378,
+    "long": 91.39168602
+  },
+  {
+    "name": "KO#1",
+    "location": "Konaban",
+    "status": "Flowing",
+    "fthp": 109,
+    "qg": 126412,
+    "qw": 1.3,
+    "qc": 0.013,
+    "lat": 23.70916944,
+    "long": 91.19189444
+  },
+  {
+    "name": "KO#2",
+    "location": "Konaban",
+    "status": "Flowing",
+    "fthp": 107,
+    "qg": 97751,
+    "qw": 0.1,
+    "qc": 0.001,
+    "lat": 23.75054555,
+    "long": 91.20240444
+  },
+  {
+    "name": "KO#3",
+    "location": "Konaban",
+    "status": "Flowing",
+    "fthp": 38,
+    "qg": 29750,
+    "qw": 1,
+    "qc": 0.196,
+    "lat": 23.70773888,
+    "long": 91.19116111
+  },
+  {
+    "name": "KO#4",
+    "location": "Konaban",
+    "status": "Sick",
+    "fthp": 51,
+    "reason": "Ceased due to water loading",
+    "plan": "Cement squeee and selective perforation in",
+    "lat": 23.71208724,
+    "long": 91.21210633
+  },
+  {
+    "name": "KO#5",
+    "location": "Konaban",
+    "status": "Flowing",
+    "fthp": 25,
+    "qg": 25846,
+    "qw": 0.1,
+    "qc": 0.001,
+    "lat": 23.73115583,
+    "long": 91.18904111
+  },
+  {
+    "name": "M#1",
+    "location": "Manikyanagar",
+    "status": "Flowing",
+    "fthp": 60,
+    "qg": 39017,
+    "qw": 2.4,
+    "qc": 0.071,
+    "lat": 23.68404556,
+    "long": 91.22147865
+  },
+  {
+    "name": "M#2",
+    "location": "Manikyanagar",
+    "status": "Flowing",
+    "fthp": 43,
+    "qg": 65321,
+    "qw": 3.12,
+    "qc": 0.215,
+    "lat": 23.65677832,
+    "long": 91.20576097
+  },
+  {
+    "name": "M#3",
+    "location": "Manikyanagar",
+    "status": "Sick",
+    "fthp": 31,
+    "reason": "presently ceased due to liquid loading",
+    "plan": "Recompletion in AP-40 with SRP",
+    "lat": 23.61910361,
+    "long": 91.23548861
+  },
+  {
+    "name": "G#1",
+    "location": "Gojalia",
+    "status": "Flowing",
+    "fthp": 62,
+    "qg": 88124,
+    "qw": 2,
+    "qc": 0.079,
+    "lat": 23.13417098,
+    "long": 91.58650198
+  },
+  {
+    "name": "G#2",
+    "location": "Gojalia",
+    "status": "Flowing",
+    "fthp": 71,
+    "qg": 63020,
+    "qw": 1.86,
+    "qc": 0.092,
+    "lat": 23.2371859,
+    "long": 91.54560016
+  },
+  {
+    "name": "G#3",
+    "location": "Gojalia",
+    "status": "Flowing",
+    "fthp": 52,
+    "qg": 35760,
+    "qw": 0.2,
+    "qc": 0.039,
+    "lat": 23.07942679,
+    "long": 91.63740167
+  },
+  {
+    "name": "KB#1",
+    "location": "Khubal",
+    "status": "Flowing",
+    "fthp": 6,
+    "qg": 927,
+    "qw": 0.25,
+    "qc": 0.001,
+    "lat": 24.10742369,
+    "long": 92.18306982
+  },
+  {
+    "name": "KB#2",
+    "location": "Khubal",
+    "status": "Flowing",
+    "fthp": 26,
+    "qg": 23184,
+    "qw": 2,
+    "qc": 0.02,
+    "lat": 24.31500249,
+    "long": 92.20148885
+  },
+  {
+    "name": "KB#3",
+    "location": "Khubal",
+    "status": "Sick",
+    "reason": "Closed due to casing Leakage",
+    "plan": "Recompletion after addressing casing leakage else Z/T to other sand",
+    "lat": 24.31500249,
+    "long": 92.20148885
+  },
+  {
+    "name": "KB#4",
+    "location": "Khubal",
+    "status": "Unknown",
+    "lat": 24.26475277,
+    "long": 92.20895277
+  },
+  {
+    "name": "BA#1",
+    "location": "Baramura",
+    "status": "Flowing",
+    "fthp": 29,
+    "qg": 17560,
+    "qw": 1.8,
+    "qc": 0.009,
+    "lat": 23.82382957,
+    "long": 91.57204712
+  },
+  {
+    "name": "BA#2",
+    "location": "Baramura",
+    "status": "Flowing",
+    "fthp": 50,
+    "qg": 56028,
+    "qw": 5.5,
+    "qc": 0.05,
+    "lat": 23.8535169,
+    "long": 91.57676065
+  },
+  {
+    "name": "BA#3",
+    "location": "Baramura",
+    "status": "Dry/Abandoned",
+    "lat": 23.80105403,
+    "long": 91.57648862
+  },
+  {
+    "name": "BA#4",
+    "location": "Baramura",
+    "status": "Dry/Abandoned",
+    "lat": 23.86104849,
+    "long": 91.57593483
+  },
+  {
+    "name": "BA#5",
+    "location": "Baramura",
+    "status": "Dry/Abandoned",
+    "lat": 23.83882825,
+    "long": 91.57676841
+  },
+  {
+    "name": "BA#6",
+    "location": "Baramura",
+    "status": "Flowing",
+    "fthp": 26,
+    "qg": 20592,
+    "qw": 0.3,
+    "qc": 0.006,
+    "lat": 23.83882825,
+    "long": 91.57676841
+  },
+  {
+    "name": "BA#7",
+    "location": "Baramura",
+    "status": "Sick",
+    "fthp": 35,
+    "reason": "Well currently non flowing due to SRP rod parting issue",
+    "plan": "additional perforation and recompletion",
+    "lat": 23.84660531,
+    "long": 91.57482414
+  },
+  {
+    "name": "S#1",
+    "location": "Sundalbari",
+    "status": "Flowing",
+    "fthp": 0,
+    "qg": 86254,
+    "qw": 1.6,
+    "qc": 0,
+    "lat": 23.49941196,
+    "long": 91.37024704
+  },
+  {
+    "name": "S#2",
+    "location": "Sundalbari",
+    "status": "Flowing",
+    "fthp": 82,
+    "qg": 53245,
+    "qw": 1.81,
+    "qc": 0.082,
+    "lat": 23.49893888,
+    "long": 91.42425555
+  },
+  {
+    "name": "S#3",
+    "location": "Sundalbari",
+    "status": "Dry/Abandoned",
+    "lat": 23.50918333,
+    "long": 91.43956111
+  },
+  {
+    "name": "S#4",
+    "location": "Sundalbari",
+    "status": "Sick",
+    "reason": "Ceased due to water loading",
+    "plan": "Planned for installation of SRP",
+    "lat": 23.56466388,
+    "long": 91.39560277
+  },
+  {
+    "name": "S#5",
+    "location": "Sundalbari",
+    "status": "Flowing",
+    "fthp": 52,
+    "qg": 22452,
+    "qw": 1.8,
+    "qc": 0.016,
+    "lat": 23.47157222,
+    "long": 91.43031111
+  },
+  {
+    "name": "T#1",
+    "location": "Tichna",
+    "status": "Flowing",
+    "fthp": 40,
+    "qg": 2012,
+    "qw": 1.02,
+    "qc": 0.042,
+    "lat": 23.43441792,
+    "long": 91.37041478
+  },
+  {
+    "name": "T#2",
+    "location": "Tichna",
+    "status": "Sick",
+    "fthp": 46,
+    "reason": "well ceased due to water loading along with sand incursion",
+    "plan": "WSO job & selective perforation",
+    "lat": 23.43913996,
+    "long": 91.38846784
+  },
+  {
+    "name": "T#3",
+    "location": "Tichna",
+    "status": "Flowing",
+    "fthp": 25,
+    "qg": 34311,
+    "qw": 1.3,
+    "qc": 0.102,
+    "lat": 23.88055059,
+    "long": 91.28181889
+  },
+  {
+    "name": "KJ#1",
+    "location": "Kunjaban",
+    "status": "Flowing",
+    "fthp": 21,
+    "qg": 7920,
+    "qw": 0.2,
+    "qc": 0.002,
+    "lat": 23.88719166,
+    "long": 91.33425555
+  },
+  {
+    "name": "KJ#2",
+    "location": "Kunjaban",
+    "status": "Flowing",
+    "fthp": 44,
+    "qg": 58615,
+    "qw": 0.8,
+    "qc": 0.055,
+    "lat": 23.90583333,
+    "long": 91.42755
+  },
+  {
+    "name": "KJ#3",
+    "location": "Kunjaban",
+    "status": "Sick",
+    "fthp": 35,
+    "reason": "well ceased due to water loading along with sand incursion",
+    "plan": "Planned for installation of SRP",
+    "lat": 23.96471388,
+    "long": 91.30727777
+  },
+  {
+    "name": "KJ#4",
+    "location": "Kunjaban",
+    "status": "Flowing",
+    "fthp": 23,
+    "qg": 3216,
+    "qw": 0,
+    "qc": 0,
+    "lat": 23.90283,
+    "long": 91.27219444
+  },
+  {
+    "name": "Agartala Dome A#1",
+    "location": "Agartala Dome",
+    "status": "Flowing",
+    "lat": 55,
+    "long": 66,
+    "fthp": 5,
+    "qg": 4,
+    "qc": 6,
+    "qw": 2
+  }
+]
